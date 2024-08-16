@@ -20,9 +20,7 @@ This project involves creating a VBA script to analyze stock market data for mul
 The results will be generated in the summary columns (`I1` to `L` and `N1` to `O`) on each worksheet.
 
 ## Acknowledgments
-- Portions of the VBA code were inspired by examples and guidance provided by the curriculum content. Specific sections were adapted from standard VBA practices discussed in forums and tutorials such as Stack Overflow.
-- Assistance with the implementation and debugging of the code was provided by support staff and peers.
-- The code was reviewed and tested in collaboration with peers to ensure accuracy and efficiency.
+- Portions of the VBA code were inspired by examples and guidance provided by the curriculum content. S
 
 ## Code Location
 - The VBA script is located in the `Module` file within this repository.
