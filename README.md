@@ -25,7 +25,7 @@ The results will be generated in the summary columns (`I1` to `L` and `N1` to `O
 - The code was reviewed and tested in collaboration with peers to ensure accuracy and efficiency.
 
 ## Code Location
-- The VBA script is located in the `Module1` file within this repository.
+- The VBA script is located in the `Module` file within this repository.
 
 ## Academic Integrity Note
 This project is the result of collaborative efforts and external resources as allowed by the course guidelines. All external sources of code and assistance have been properly credited in this README file to ensure transparency and adherence to academic integrity policies.
